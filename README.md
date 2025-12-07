@@ -109,8 +109,6 @@ npm run start:dev
 
 ![Home Page UI](assets/Home_page_UI.jpeg)
 
-!(assets/Home_page_UI_II.jpeg)
-
 ![History](assets/History.jpeg)
 
 ![AI Intepretation](assets/AI_Intepretation.jpeg)
