@@ -1,0 +1,12 @@
+﻿html, body {
+  margin: 0;
+  padding: 0;
+  background: #f8fafc;
+  font-family: Inter, Arial, sans-serif;
+}
+
+.main-container {
+  max-width: 1200px;
+  padding: 24px;
+  margin: auto;
+}
