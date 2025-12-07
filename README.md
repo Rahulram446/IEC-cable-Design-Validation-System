@@ -107,8 +107,8 @@ npm run start:dev
 
 🖼️ Application Screenshots Overview
 
-![Home Page UI](./assets/Home_page_UI.jpeg)
+![Home Page UI](./asset/Home_page_UI.jpeg)
 
-![History](./assets/History.jpeg)
+![History](./asset/History.jpeg)
 
-![AI Intepretation](./assets/AI_Intepretation.jpeg)
+![AI Intepretation](./asset/AI_Intepretation.jpeg)
