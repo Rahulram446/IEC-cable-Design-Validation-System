@@ -109,7 +109,7 @@ npm run start:dev
 
 ![Home Page UI](./asset/Home_page_UI.jpeg)
 
-![Home Page UI_II](./asset/Home_page_UI_II.jpeg)
+![Home Page UI_II](./asset/Home_Page_UI_II.jpeg)
 
 ![History](./asset/History.jpeg)
 
