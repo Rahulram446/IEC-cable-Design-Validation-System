@@ -114,3 +114,9 @@ npm run start:dev
 ![History](./asset/History.jpeg)
 
 ![AI Intepretation](./asset/AI_Intepretation.jpeg)
+
+⚠️ NOTE: Project Code Location
+
+Frontend code will be inside the frontend folder.
+
+Backend folder will be present inside the src folder.
